@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 '''
-Author: Fei Jing
+Author: Anna Fei
 Date: 23/Nov/2017
 Usage: python concateClinicalXml.py clinicalF_List
 Function: concatenate content of files
